@@ -16,8 +16,8 @@ Cadastro do usuário armazenando no banco de dados:
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/form-cad-ex3.png">
 
-<h3>Clique na imagem abaixo para acessar a página funcionando:</h3>h3>
+<h3>Clique na imagem abaixo para acessar a página funcionando:</h3>
 
-[![texto](https://github.com/allesantos/allesantos/blob/main/imagens/form-cad1.png)](http://alleform.000.pe/ "texto")
+[![texto](https://github.com/allesantos/allesantos/blob/main/imagens/cliqueaqui.png)](http://alleform.000.pe/ "texto")
 
 
