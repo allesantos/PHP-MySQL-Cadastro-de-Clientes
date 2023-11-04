@@ -1,4 +1,4 @@
-# Cadastro de Cliente com PHP e MySQL
+# Cadastro de Clientes com PHP e MySQL
 
 Este pequeno projeto tem o objetivo de cadastrar os dados de clientes em uma página feita em HTML/CSS. Para funcionar o banco de dados e a conexão, utilizei PHP e MySQL.
 
