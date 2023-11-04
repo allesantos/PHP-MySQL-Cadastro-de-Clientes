@@ -12,7 +12,7 @@ Confirmação do cadastro do usuário:
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/form-cad-ex2.png">
 
-Cadastro do usuário armazenando no banco de dados:
+Cadastro do usuário armazenado no banco de dados:
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/form-cad-ex3.png">
 
