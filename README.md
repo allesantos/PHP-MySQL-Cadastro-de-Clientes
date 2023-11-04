@@ -18,7 +18,7 @@ Cadastro do usuário armazenando no banco de dados:
 
 <h3>Clique na imagem abaixo para acessar a página funcionando:</h3>
 
-<div align="center>
+<div align="center">
 [![texto](https://github.com/allesantos/allesantos/blob/main/imagens/cliqueaqui.png)](http://alleform.000.pe/ "texto")
 </div>
 
