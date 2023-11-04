@@ -2,7 +2,7 @@
 
 Este pequeno projeto tem o objetivo de cadastrar clientes em um banco de dados utilizando PHP e MySQL.
 
-# Confira abaixo alguns prints do projeto:
+<h3>Confira abaixo alguns prints do projeto:</h3>
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/form-cad-ex1.png">
 
