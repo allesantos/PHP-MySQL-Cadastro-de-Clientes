@@ -1,0 +1,104 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 98vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ADD2B5;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    color: #025F54;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    width: 50%;
+}
+
+fieldset {
+    border: 3px solid #058a7b;
+    color: #025F54;
+}
+
+legend {
+    color: #fff;
+    border: 1px solid #058a7b;
+    padding: 10px;
+    text-align: center;
+    background-color: #058a7b;
+    border-radius: 8px;
+}
+
+.inputBox {
+    position: relative;
+}
+
+.inputUser {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #025F54;
+    outline: none;
+    color: #025F54;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+.labelInput {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.inputUser:focus~.labelInput,
+.inputUser:valid~.labelInput {
+    top: -20px;
+    font-size: 12px;
+    color: #ADD2B5;
+}
+
+#data_nascimento {
+    border-color: #058a7b;
+    color: #058a7b;
+    padding: 8px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 15px;
+}
+
+#submit {
+    background-color: #058a7b;
+    width: 100%;
+    border: none;
+    padding: 15px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#submit:hover {
+    background-color: #025F54;
+}
+
+@media screen and (min-width: 540px){
+    .box {
+        display: flex;
+        flex-direction: column;
+        width: 20%;
+    }
+
+    img {
+        width: 7%;
+        margin-bottom: 20px;  
+    }
+}
+
+
+
